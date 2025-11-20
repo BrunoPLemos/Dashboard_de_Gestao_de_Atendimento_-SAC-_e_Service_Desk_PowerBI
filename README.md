@@ -2,7 +2,7 @@
 
 > **Status:** Concluído ✅
 
-![Preview do Dashboard](PowerBI%202%20Imagem.jpg)
+![Preview do Dashboard](PowerBI%202%20imagem.png)
 
 ## 📌 Contexto do Negócio
 
