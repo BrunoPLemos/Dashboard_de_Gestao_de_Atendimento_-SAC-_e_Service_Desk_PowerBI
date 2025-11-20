@@ -1,8 +1,7 @@
 # 🎧 Dashboard de Gestão de Atendimento (SAC) e Service Desk
 
 > **Status:** Concluído ✅
-
-![Preview do Dashboard](PowerBI%202%20imagem.png)
+![Dashboard Preview](Dashboard%202%20imagem.png)
 
 ## 📌 Contexto do Negócio
 
