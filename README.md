@@ -2,7 +2,8 @@
 
 > **Status:** Concluído ✅
 > 
-![Dashboard Preview](PowerBI2Imagem.png)
+<img width="1531" height="863" alt="image" src="https://github.com/user-attachments/assets/1f5eff66-7683-495e-97c5-109fa802635a" />
+
 
 ## 📌 Contexto do Negócio
 
@@ -16,8 +17,8 @@ O relatório responde às seguintes perguntas estratégicas de negócio:
 
 * **Volume e Sazonalidade:** Qual o total de requisições feitas por ano? Houve aumento na demanda?
 * **Status da Operação:** Quantas solicitações ainda estão **abertas** (esperando solução) vs. quantas foram concluídas?
-* **Análise Regional:** De quais regiões/estados estão vindo a maior parte das solicitações? (Mapa de calor).
-* **Performance por Setor:** Quais departamentos (ex: Financeiro, Suporte, Vendas) são mais acionados pelos clientes?
+* **Análise Regional:** De quais regiões/estados estão concentrados os clientes.
+* **Performance por Setor:** Quais departamentos (ex: Administrativo, Comercial, Técnico) são mais acionados pelos clientes?
 * **Produtividade da Equipe:** Quem é o colaborador responsável por cada resposta e qual o volume de atendimentos por pessoa?
 
 ## 🛠️ Ferramentas e Técnicas Utilizadas
